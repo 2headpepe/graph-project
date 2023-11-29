@@ -1,0 +1,26 @@
+.mainHeader { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 6vh;
+}
+
+.leftText { 
+    display: flex;
+    align-items: center;
+}
+
+.leftText .mainName {
+    color: #fff;
+    letter-spacing: 0.4rem;
+}
+
+.leftText .communityName {
+    color: #fff;
+    margin-left: 10vw;
+}
+
+.mainHeader .buttonLabel::before {
+    content: "+";
+    margin-right: 0.3rem;
+}

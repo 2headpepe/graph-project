@@ -1,0 +1,16 @@
+.knowledgeWrapper {
+  display: flex;
+}
+
+.button {
+  border-radius: 0px 6px 6px 0px;
+  height: 31.6px;
+  /* border-left: none; */
+
+  position: relative;
+  left: -1px;
+}
+
+.input {
+  border-radius: 6px 0px 0px 6px;
+}

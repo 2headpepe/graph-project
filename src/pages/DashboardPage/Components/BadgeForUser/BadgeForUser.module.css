@@ -1,0 +1,21 @@
+.BadgeForUser {
+    width: 25%;
+}
+
+.BadgeForUser .Photo, .BadgeForUser .ButtonEditSaveFollow {
+    text-align: center;
+}
+
+.BadgeForUser .Name {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.BadgeForUser .Description {
+    color:rgb(131, 131, 128); 
+}
+
+.BadgeForUser .Other {
+    color:rgb(43, 43, 43);
+}

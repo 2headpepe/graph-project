@@ -1,0 +1,10 @@
+.BadgeForTree {
+    justify-content: start;
+    gap: 10%;
+    width: 22vw;
+}
+  
+.BadgeForTree .AdditionalData {
+    display: flex;
+    justify-content: space-between;
+}

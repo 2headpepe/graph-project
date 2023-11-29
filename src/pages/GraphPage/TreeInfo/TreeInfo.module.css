@@ -1,0 +1,12 @@
+.treeInfo {
+  max-width: 25vw;
+  min-width: 15vw;
+
+  /* overflow-y: scroll; */
+  max-height: 50vh;
+  border: 1px solid black;
+
+  position: absolute;
+  left: 2vh;
+  top: 8vh;
+}

@@ -1,0 +1,11 @@
+.button {
+  position: relative;
+  top: -50vh;
+  left: 2vh;
+
+  font-weight: 500;
+  border: 1px black solid;
+
+  max-width: 10vw;
+  min-width: 150px;
+}
